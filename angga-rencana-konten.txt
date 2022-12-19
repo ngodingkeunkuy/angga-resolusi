@@ -5,3 +5,4 @@
 - Laravel
 - PHP
 - Python
+- React
