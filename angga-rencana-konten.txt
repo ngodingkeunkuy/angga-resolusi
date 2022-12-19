@@ -4,3 +4,5 @@
 - Fundamental Data Structure
 - Laravel
 - PHP
+- Python
+- React
