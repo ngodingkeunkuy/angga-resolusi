@@ -6,3 +6,4 @@
 - PHP
 - Python
 - React
+- bahasa pemrograman baru
